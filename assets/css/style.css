@@ -83,10 +83,11 @@ h6 {
 }
 
 #header .profile img {
-  margin: 15px auto;
+  margin: 10px auto;
   display: block;
-  width: 120px;
-  border: 8px solid #2c2f3f;
+  width: 140px;
+  height: 160px;
+  border: 5px solid #2c2f3f;
 }
 
 #header .profile h1 {
@@ -228,7 +229,9 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  /* background: url("../img/jr-bg-min-crop.jpeg") center center; */
+  background: url("https://thumbs.gfycat.com/DependentRingedBinturong-size_restricted.gif") center center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
@@ -1101,4 +1104,23 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+
+.parag {
+  text-align: center;
+}
+
+.img_in {
+  border-radius: 30px;
+}
+
+.btn-101 {
+  border: 1px solid #fff;
+  padding: 0px 2px;
+  margin: 0px 1px;
+}
+
+.btn-101:hover {
+  /* border: 0.1px solid #000; */
+  color: black;
 }
