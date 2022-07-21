@@ -1,3 +1,1 @@
-# Jrahuldev.io
-portfolio website
-test comment
+It's a static portfolio site with no backend.
